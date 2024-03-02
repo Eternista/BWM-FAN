@@ -1,0 +1,32 @@
+/*
+Theme Name: BMW Fan
+Theme URI: 
+Author: Adrian Ziółkowski
+Author URI: 
+Description: This theme is ...
+Requires at least: 5.6
+Tested up to: 6.0
+Requires PHP: 8.0
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-bmw-fan
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+@font-face {
+  font-family: "Font Regular";
+  src: url("/wp-content/themes/wp-drivece/assets/fonts/Font-Brand-Regular.otf");
+}
+@font-face {
+  font-family: "Font Light";
+  src: url("/wp-content/themes/wp-drivece/assets/fonts/Font-Brand-Light.otf");
+}
+@font-face {
+  font-family: "Font Bold";
+  src: url("/wp-content/themes/wp-drivece/assets/fonts/Font-Brand-Bold.otf");
+}
+@font-face {
+  font-family: "Font Italic";
+  src: url("/wp-content/themes/wp-drivece/assets/fonts/Font-Brand-Italic.otf");
+}
